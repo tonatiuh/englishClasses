@@ -4,14 +4,14 @@ I'm currently working in a company called Tangosource, which is conformed of oth
 
 The software development is a pretty big area, therefore it is divided in different fields such as: desktop development, web development, mobile development, gaming development, etc.
 
-Here at Tangosource we mainly work in the web development field, which means that we develop web applications (commonly simply called web pages). 
+Here at Tangosource we work mainly, in the web development field, which means that we develop web applications (commonly simply called web pages). 
 
 Just like in any other field, in the web development the tools are required to do it. The tools that any web developer is going to use in order to develop web application, will be mainly determined by the web programming language that he pretends to use. The programming language that is used here in Tangosource is the one called Ruby, it's an amazing language that gives the developer a lot of freedom (talking in programming terms of course). 
 
-When making web development a framework can be used to make the development easier and more effective. A framework in programming terms means a serie of grouped tools that facilitates the implementation of the programming language for building the applications. Thus, in the case of Ruby, it has some frameworks, but the most popular (in my opinion) that it has is Ruby On Rails. 
+When making web development a framework can be used to make the development easier and more effective. A framework in programming terms means a serie of grouped tools that facilitates the implementation of the programming language for building the applications. Thus, in the case of Ruby, it has some frameworks, but the most popular from my perspective is Ruby On Rails. 
 
-Ruby on Rails is a growing framework that has a big community, and it is in continuous change and improvement. There is a lot of information on internet about it, which makes it easier to start learning it. At the present time, many people is starting to get  interest in learning Ruby on Rails and much of that is due to its effectiveness for making web applications. 
+Ruby on Rails is a growing framework that has a big community, and it is in continuous change and improvement. There is a lot of information on internet about it, which makes easier learn it. At the present time, many people is starting to get  interested in learning Ruby on Rails and much of that is due to its effectiveness for making web applications. 
 
-Our clients use Ruby on Rails and for that reason we can work together, they reside in the USA and for that's why we have to work at distance, communicating ourselves mainly from the internet. As they live in the USA, most of them don´t speak spanish so we communicate talking on English. 
+Our clients use Ruby on Rails and for that reason we can work together, they reside in the USA and for that's the reason we communicate each other trough internet. As they live in the USA, most of them don´t speak spanish so we communicate talking on English. 
 
-In conclusion, telecommuting is nice but you having a keep a clear and constant communication with the client is always important, as well as meeting the developer skills that the software to build could demand.
+In conclusion, telecommuting is nice, however its always important to keep a clear and constant communication with the client, as well as meeting the developer skills that the software to build could demands.
